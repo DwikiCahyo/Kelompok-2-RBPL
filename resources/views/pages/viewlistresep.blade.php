@@ -17,6 +17,10 @@
                     </div>
                  </div>
         </div>
+
+        <div class="text-right fixed-bottom mt-5 mr-5 ml-5">
+          <a href="/tambahresep"  class="btn btn-primary btn-lg btn-icon btn-round"></a>
+        </div>
         
      
     

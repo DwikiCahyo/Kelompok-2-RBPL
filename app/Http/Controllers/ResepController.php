@@ -17,4 +17,9 @@ class ResepController extends Controller
 
     }
 
+    public function tambahresep(){
+        $this->middleware('auth');
+        return view('pages.tambahresep');
+    }
+
 }
